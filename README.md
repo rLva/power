@@ -1,3 +1,4 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/rlva/power)
 power
 =====
 
